@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/1406-stone-game-iii) |
 | [3536-maximum-product-of-two-digits](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/1406-stone-game-iii) |
 ## Greedy
 |  |
@@ -139,9 +143,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
