@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/2029-stone-game-ix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/2029-stone-game-ix) |
 | [3536-maximum-product-of-two-digits](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
@@ -139,18 +142,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/2029-stone-game-ix) |
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
