@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0089-gray-code) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sliding Window
 |  |
 | ------- |
