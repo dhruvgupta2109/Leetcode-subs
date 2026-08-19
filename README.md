@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0877-stone-game) |
+| [1386-cinema-seat-allocation](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0089-gray-code) |
+| [1386-cinema-seat-allocation](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sliding Window
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Minimax
