@@ -31,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/2029-stone-game-ix) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0204-count-primes) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
