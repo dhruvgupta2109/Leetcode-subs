@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0204-count-primes) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/0089-gray-code) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dhruvgupta2109/Leetcode-subs/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
 | ------- |
